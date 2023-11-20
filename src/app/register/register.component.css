@@ -1,0 +1,6 @@
+container{
+    display: flex;
+}
+.body{
+    background: rgb(128, 128, 128);
+}
